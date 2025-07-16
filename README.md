@@ -2,8 +2,6 @@
 
 A modern, responsive digital ID card built with React and Tailwind CSS, showcasing professional information and social media links.
 
-![Digital ID Card Preview](./attached_assets/profile.jpg)
-
 ## 🌟 Features
 
 - **Responsive Design**: Looks great on desktop, tablet, and mobile devices
@@ -47,7 +45,7 @@ npm run build
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is for personal use and showcase purposes.
 
 ---
 
