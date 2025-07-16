@@ -10,11 +10,7 @@ A modern, responsive digital ID card built with React and Tailwind CSS, showcasi
 - **Fast Loading**: Optimized for performance with modern web technologies
 - **Easy to Deploy**: Ready for GitHub Pages deployment
 
-## 🚀 Live Demo
-
-Visit the live site: [https://yourusername.github.io/digital-id-card/](https://yourusername.github.io/digital-id-card/)
-
-## 🛠️ Built With
+## ️ Built With
 
 - **React 18** - Frontend framework
 - **Tailwind CSS** - Styling framework
